@@ -39,8 +39,4 @@ This project is open-source and free to use.
 
 ---
 
-### Notes
-- Ensure your Google Analytics ID is updated in `index.html` before deploying.
-- Modify the Google Form link if needed to match your tracking requirements.
-- Feel free to customize styles as per branding requirements.
 
