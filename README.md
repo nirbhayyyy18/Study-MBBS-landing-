@@ -20,7 +20,7 @@ This project is a responsive landing page for "Study MBBS Abroad" designed for U
 ## Setup Instructions
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/nirbhayyyy18/Study-MBBS-landing-.git
+   git clone https://gihttps://fluffy-maamoul-6d88e2.netlify.app/thub.com/nirbhayyyy18/Study-MBBS-landing-.git
    cd Study-MBBS-landing-
    ```
 2. **Open `index.html` in a browser**
@@ -29,7 +29,7 @@ This project is a responsive landing page for "Study MBBS Abroad" designed for U
    - Link the repository to Netlify for easy deployment.
 
 ## Deployment
-- **Live Demo**: [Your Netlify/Vercel Link Here]
+- **Live Demo**: https://fluffy-maamoul-6d88e2.netlify.app/
 
 ## Author
 - **Nirbhay**
